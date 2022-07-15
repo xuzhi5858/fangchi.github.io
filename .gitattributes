@@ -1,2 +1,0 @@
-. filter=lfs diff=lfs merge=lfs -text
-max.apk filter=lfs diff=lfs merge=lfs -text
